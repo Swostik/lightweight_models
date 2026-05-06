@@ -1,0 +1,18 @@
+# Environments
+tf_env/
+.venv/
+
+# Python/Jupyter internals
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Machine Learning Models (The heavy hitters)
+*.keras
+*.h5
+*.tflite
+
+# Data and Logs
+dataset/
+results/
+*.csv
